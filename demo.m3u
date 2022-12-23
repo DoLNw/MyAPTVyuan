@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1, Video
+https://cn-hblf-ct-01-11.bilivideo.com/live-bvc/131280/live_46936_bs_5716239_bluray/index.m3u8?expires=1671810766&len=0&oi=1386026748&pt=h5&qn=10000&trid=10074ec0e126597d432e8da3a061920d479d&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=f45193df82a80e3556ccd1052939fafa&sk=6a0463198226cf2ecbbe9d034f4522aa&flvsk=a6d24a5b72f3b0eb311baaa5561bdeb5&p2p_type=0&src=57345&sl=10&free_type=0&sid=cn-hblf-ct-01-11&chash=0&sche=ban&bvchls=1&score=12&pp=rtmp&machinezone=ylf&source=onetier&trace=4&site=00a615581b2a05cd32de521171b61fc3&order=1
+#EXTINF:-1,tvg-id="" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视IPV6",CCTV16
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视IPV6",CCTV1
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
